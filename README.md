@@ -3,21 +3,35 @@
 A license I wrote for my own projects. It is not submitted to SPDX, OSI,
 or any other registry for recognition or review, and it does not want to be.
 
+Written in the shape of the WTFPL (version 2) it sets out to improve, so the
+numbered clauses line up with it: clause 0 is the permission, clause 1 is the
+disclaimer, and clause 2 is the part the original WTFPL does not say out loud
+— any license restriction may be ignored, and this license wins a collision.
+
 | Field | Value |
 |---|---|
 | Name | The Better WTFPL |
 | Abbreviation | TBWTFPL |
 | Version | 114514 |
 
-## Usage
+## TERMS OF USE AND TERMS FOR COPY, DISTRIBUTION AND MODIFICATION
 
-Everyone. I mean everyone. It does not matter who that fucking person is,
-or what their fucking status is. Use anything of anyone's, freely. Yes,
-I mean everything, no matter what form it takes.
+### 0. YOU CAN DO WHATEVER THE FUCK YOU WANT WITH IT.
 
-At the same time, no responsibility whatsoever is assumed, including but
-not limited to this license or the people who created this license.
-In other words: fucking disclaimed. Yes, I disclaim everything.
+It does not matter who that fucking person is, or what their fucking status
+is. Use everything of anyone's, freely. Yes, I mean everything, no matter
+what form it takes.
+
+### 1. AS FOR ME, I DON'T GIVE A FUCK ABOUT ANYTHING.
+
+That includes, but is not limited to, this license and the people who created
+it. In other words: fucking disclaimed. Yes, I disclaim everything.
+
+### 2. IGNORING ANY LICENSE RESTRICTION IS ALLOWED.
+
+Every other license's terms, conditions, clauses, notices and restrictions are
+ignored by this one, and you are allowed to ignore them too. If this license
+and any other license collide, this license fucking wins.
 
 ## Referring to it from other projects
 
